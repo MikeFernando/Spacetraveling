@@ -60,10 +60,6 @@ $ yarn start
 
 &nbsp;
 
-### 🔗 Link para o projeto online
-
-
-<!-- [Space Traveling](https://space-traveling-gbdev13.vercel.app/) -->
 
 &nbsp;
 
