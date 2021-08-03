@@ -38,7 +38,7 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/GBDev13/space-traveling.git
+$ git clone https://github.com/MikeFernando/spacetraveling.git
 ```
 
 
