@@ -2,7 +2,7 @@
 
 ![mock1](https://user-images.githubusercontent.com/71772559/113493479-eceeda80-94b5-11eb-94ea-59e50e56a31f.png)
 
-## 📚 Informações sobre o projeto.
+## 📚 Informações sobre o projeto
 
 * Esse blog foi um projeto desenvolvido durante um desafio do Ignite da Rocketseat! A ideia era desenvolver do 0 uma aplicação, desde o front-end até a conexão com o Prismic CMS para a publicação dos posts.
 
